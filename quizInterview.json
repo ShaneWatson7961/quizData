@@ -15,7 +15,7 @@
             {
                 "queType":"Sub",
                 "showIf":"Apple",
-                "type":"input",
+                "type":"textinput",
                 "question":"Which type of code is represented in 0 and 1 ?",
                 "options":[]
             }
